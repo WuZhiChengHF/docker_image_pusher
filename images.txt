@@ -7,3 +7,5 @@
 b3log/siyuan:v3.1.8
 gitlab/gitlab-ce
 --platform=linux/amd64 gitlab/gitlab-ce
+--platform=linux/amd64 sigoden/dufs
+--platform=linux/amd64 nacos/nacos-server:2.2.4
