@@ -9,4 +9,5 @@
 #--platform=linux/amd64 gitlab/gitlab-ce
 #--platform=linux/aarch64 mysql:8.0
 #--platform=linux/aarch64 nacos/nacos-server:v2.4.0
-shihd/gbase8a:1.0
+#shihd/gbase8a:1.0
+jlesage/firefox
